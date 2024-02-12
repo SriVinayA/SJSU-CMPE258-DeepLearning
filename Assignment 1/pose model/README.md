@@ -1,1 +1,1 @@
-https://teachablemachine.withgoogle.com/models/t2YF302tb/
+https://teachablemachine.withgoogle.com/models/DDPO6OZqg/
