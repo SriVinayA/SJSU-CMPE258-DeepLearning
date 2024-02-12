@@ -13,11 +13,11 @@ The repository is organized into three main directories, each corresponding to a
 Each directory contains the following:
 
 - `image.png`: A screenshot of the trained model in Teachable Machines.
-- `.zip` file: The exported model ready for use in projects. The name of the zip file corresponds to the type of model it contains.
+- `.zip` file: The exported model is ready for use in projects. The name of the zip file corresponds to the type of model it contains.
 
 ## How to Use
 
-To use these models in your own projects, follow these steps:
+To use these models in your projects, follow these steps:
 
 1. Choose the model you wish to use (image, pose, or audio).
 2. Download the corresponding `.zip` file from the respective directory.
@@ -29,6 +29,7 @@ To use these models in your own projects, follow these steps:
 ### Image Model
 - **File**: `tm-my-image-model.zip`
 - This model is trained to recognize various images based on the dataset provided during the training phase.
+- Image Model link[https://teachablemachine.withgoogle.com/models/t2YF302tb/]
 
 ### Pose Model
 - **File**: `my-pose-model.zip`
