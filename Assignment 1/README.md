@@ -29,13 +29,15 @@ To use these models in your projects, follow these steps:
 ### Image Model
 - **File**: `tm-my-image-model.zip`
 - This model is trained to recognize various images based on the dataset provided during the training phase.
-- Image Model link[https://teachablemachine.withgoogle.com/models/t2YF302tb/]
+- Image Model [link](https://teachablemachine.withgoogle.com/models/t2YF302tb/)
 
 ### Pose Model
 - **File**: `my-pose-model.zip`
 - The pose model can identify specific human poses, making it suitable for applications that require gesture or action recognition.
+- Pose Model [link](https://teachablemachine.withgoogle.com/models/DDPO6OZqg/)
 
 ### Audio Model
 - **File**: `tm-my-audio-model.zip`
 - Trained to recognize different sounds, this model can be used in applications that involve audio signal processing or classification.
+- Audio Model [link](https://teachablemachine.withgoogle.com/models/qUavKxBlo/)
 
