@@ -1,6 +1,6 @@
 
 ## Fastai Tasks
-- [Link to Notebook](fastai_tasks.ipynb)
+- [Link to Notebook](Assignment 3/task A.ipynb)
 ### Vision Object Detection Task
 
 - Description: This demonstrates training and inference for vision object detection using the FastAI library.
