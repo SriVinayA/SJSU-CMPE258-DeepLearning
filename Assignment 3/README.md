@@ -1,88 +1,42 @@
+# SJSU CMPE258 Deep Learning Assignments
 
-## Fastai Tasks
-- [Link to Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20A.ipynb)
-### Vision Object Detection Task
+This repository hosts a collection of machine learning tasks implemented using the Fastai, Hugging Face Transformers, Keras-NLP, and Keras-CV libraries. It serves as a comprehensive showcase of various deep learning techniques applied to vision, text, tabular data, and more.
 
-- Description: This demonstrates training and inference for vision object detection using the FastAI library.
+## Quick Links
 
-### Vision Segmentation Task
+- [Fastai Tasks Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20A.ipynb)
+- [Hugging Face Tasks Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20B.ipynb)
+- [NLP Tasks (Keras-NLP) Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20C.ipynb)
+- [Computer Vision Tasks (Keras-CV) Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task_D.ipynb)
 
-- Description: This showcases training and inference for vision segmentation using FastAI.
+## Tasks Overview
 
-### Tabular Task
+### Fastai Tasks
 
-- Description: This demonstrates tabular data tasks using FastAI.
+- **Vision Object Detection Task**: Implement and train a model for object detection in images, demonstrating FastAI's capabilities for vision-based tasks.
+- **Vision Segmentation Task**: Explore image segmentation, partitioning images into multiple segments or objects.
+- **Tabular Task**: Utilize FastAI for processing and making predictions from tabular data.
+- **Recommendation Task**: Build a recommendation system with FastAI, showcasing personalized recommendations.
 
-### Recommendation Task
+### Hugging Face Transformers Tasks
 
-- Description: This showcasing recommendation tasks using FastAI.
+- **Text Classification**: Classify text into predefined categories using state-of-the-art transformer models.
+- **Named Entity Recognition (NER)**: Identify and classify named entities in text into predefined categories.
+- **Question Answering**: Build a model that can answer questions posed in natural language.
+- **Text Summarization**: Summarize long pieces of text into concise, informative summaries.
+- **Translation**: Translate text from one language to another using transformer models.
+- **Zero-shot Classification**: Classify text into categories that the model has not been explicitly trained on.
 
-## Hugging Face Transformers
-- [Link to Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20B.ipynb)
+### Keras-NLP Tasks
 
-### Text Classification
+- **Inference with Pretrained Classifier**: Perform text classification using a pre-trained NLP classifier.
+- **Fine Tuning Pretrained Backbone**: Fine-tune a pre-trained NLP model for specific tasks.
+- **Fine Tuning with User-controlled Preprocessing**: Customize preprocessing steps during fine-tuning of NLP models.
+- **Fine Tuning a Custom Model**: Demonstrate the fine-tuning of custom models built with Keras-NLP.
 
-- Description: This demonstrates text classification tasks using Hugging Face Transformers API.
+### Keras-CV Tasks
 
-### Named Entity Recognition
-
-- Description: This showcases named entity recognition using Hugging Face Transformers.
-
-### Question Answering
-
-- Description: This demonstrates question-answering tasks using Hugging Face Transformers.
-
-### Text Summarization
-
-- Description: This showcases text summarization using Hugging Face Transformers.
-
-### Translation
-
-- Description: This demonstrates translation tasks using Hugging Face Transformers.
-
-### Zero-shot Classification
-
-- Description: This showcasing zero-shot classification using Hugging Face Transformers.
-
-### Other Tasks
-- Computer vision
-- Audio
-- Table QA
-
-## Keras-NLP Tasks
-- [Link to Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task%20C.ipynb)
-
-### Inference with Pretrained Classifier
-
-- Description: This demonstrates inference with a pre-trained classifier using Keras-NLP.
-
-### Fine Tuning Pretrained Backbone
-
-- Description: This showcases fine-tuning a pre-trained backbone using Keras-NLP.
-
-### Fine Tuning with User-controlled Preprocessing
-
-- Description: This demonstrates fine-tuning with user-controlled preprocessing using Keras-NLP.
-
-### Fine Tuning a Custom Model
-
-- Description: This showcases fine-tuning a custom model using Keras-NLP.
-
-## Keras-CV Tasks
-- [Link to Notebook](https://github.com/SriVinayA/SJSU-CMPE258-DeepLearning/blob/main/Assignment%203/task_D.ipynb)
-
-### Object Detection using YOLO Model
-
-- Description: This demonstrates object detection using the YOLO model with Keras-CV.
-
-### Inference with Pretrained Classifier
-
-- Description: This showcases inference with a pre-trained classifier using Keras-CV.
-
-### Fine Tuning Pretrained Backbone
-
-- Description: This demonstrates fine-tuning a pre-trained backbone using Keras-CV.
-
-### Training Image Classifier from Scratch
-
-- Description: This showcases training an image classifier from scratch using Keras-CV.
+- **Object Detection using YOLO Model**: Implement object detection using the YOLO (You Only Look Once) model with Keras-CV.
+- **Inference with Pretrained Classifier**: Utilize a pre-trained classifier for image classification tasks.
+- **Fine Tuning Pretrained Backbone**: Fine-tune a pre-trained computer vision model for specific image processing tasks.
+- **Training Image Classifier from Scratch**: Guide on building and training an image classifier from scratch with Keras-CV.
