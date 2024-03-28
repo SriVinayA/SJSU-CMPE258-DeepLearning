@@ -1,5 +1,3 @@
-# SJSU CMPE258 Deep Learning Assignments
-
 This repository hosts a collection of machine learning tasks implemented using the Fastai, Hugging Face Transformers, Keras-NLP, and Keras-CV libraries. It serves as a comprehensive showcase of various deep learning techniques applied to vision, text, tabular data, and more.
 
 ## Quick Links
