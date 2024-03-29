@@ -1,22 +1,31 @@
 # AI Agents Assignment
 
-This repository contains the solutions for the AI Agents assignment, which consists of two parts: creating an agent from scratch using Python tools and demonstrating various agent types using LangChain.
+This repository contains two primary components for the AI Agents assignment. The focus is on demonstrating the application and understanding of AI agents through practical implementation and exploration of various agent types, utilizing Python and the Langchain library. The assignments are structured as follows:
 
-## Part A: Agent Implementation from Scratch
+## Contents
+- **agent.ipynb**: A Jupyter notebook that details the process of writing an agent from scratch in Python. This agent is designed to handle queries related to world population data and note-taking, showcasing the integration of different tools and libraries for creating a functional AI agent.
+- **langchain.ipynb**: This notebook explores various agent types using the Langchain library. It demonstrates the flexibility and power of Langchain in processing natural language, including text summarization and translation.
+- **README.md**: Provides an overview of the repository, setup instructions, and additional context for the projects contained within.
 
-### Description
-In this part of the assignment, an AI agent was implemented from scratch using Python tools. The goal was to create an agent without relying on pre-existing libraries or frameworks like TensorFlow or PyTorch.
+## Assignment Overview
 
-### Implementation Details
-The agent was implemented using Python, drawing inspiration from class slides and other relevant examples. Various AI techniques such as search algorithms, reinforcement learning, or other custom algorithms may have been employed in the implementation.
+The assignment is divided into two parts:
 
-### Code Location
-The code for the agent implementation can be found in the `agent_from_scratch.py` file.
+### Part A: Custom Python Agent
+- **Objective**: Implement an AI agent from scratch using Python. The agent is built to perform specific tasks, such as querying world population data and saving notes, demonstrating the practical application of concepts discussed in class.
+- **Inspiration**: The code is inspired by examples from class slides, showcasing how to leverage Python tools and libraries to create functional and interactive AI agents.
 
-## Part B: Demonstration of Various Agent Types with LangChain
+### Part B: Exploring Langchain Agents
+- **Objective**: Utilize the Langchain library to demonstrate different types of agents, focusing on natural language processing tasks like text summarization and translation.
+- **Approach**: The notebook provides examples and demonstrations based on the provided slide deck, highlighting the versatility and utility of Langchain for building sophisticated language models and agents.
 
-### Description
-In this part of the assignment, demonstrations of various agent types were provided using LangChain. LangChain is a platform for demonstrating AI concepts and techniques using Jupyter notebooks.
+## Setup and Usage
 
-### Implementation Details
-Several agent types were demonstrated using LangChain, showcasing their functionalities and capabilities. These demonstrations may include but are not limited to, search algorithms, reinforcement learning agents, and other AI techniques.
+To run these notebooks:
+1. Clone this repository to your local machine or open it in Google Colab.
+2. Ensure you have Python installed, along with necessary libraries (pandas, openai, langchain, etc.). Use `pip install -r requirements.txt` to install dependencies.
+3. Open the notebooks in Jupyter or Colab and follow the instructions within to execute the code.
+
+## Acknowledgments
+
+This project is completed as part of the [Course Name] under the guidance of [Instructor Name]. The implementation is inspired by code examples from class slides and leverages the capabilities of the Langchain library for processing natural language.
