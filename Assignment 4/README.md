@@ -28,4 +28,4 @@ To run these notebooks:
 
 ## Acknowledgments
 
-This project is completed as part of the [Course Name] under the guidance of [Instructor Name]. The implementation is inspired by code examples from class slides and leverages the capabilities of the Langchain library for processing natural language.
+This project is completed as part of the Deep Learning Course. The implementation is inspired by code examples from class slides and leverages the capabilities of the Langchain library for processing natural language.
