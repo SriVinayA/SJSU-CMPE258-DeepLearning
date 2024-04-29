@@ -1,4 +1,4 @@
-# Short Story Assignment README
+# Short Story Assignment
 
 ---
 
