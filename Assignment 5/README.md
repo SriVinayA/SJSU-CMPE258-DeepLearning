@@ -15,6 +15,8 @@ This repository contains implementations of basic neural networks using various 
    - Utilize synthetic data generated from a 3-variable-based non-linear equation provided in the class example.
    - Plot the synthetic data using a 4D plot.
 
+### [video walkthrough](https://drive.google.com/file/d/1M5-MihB1gUz8iSd5tAIESj2h9XWGl44a/view?usp=sharing)
+
 ### Implementation Details
 
 1. **NumPy Implementation**: Implement a 3-layer deep neural network for non-linear regression manually, demonstrating backpropagation and gradient propagation using NumPy.
