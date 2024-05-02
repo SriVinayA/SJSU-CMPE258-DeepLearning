@@ -21,6 +21,6 @@ This repository contains the submission for the Short Story Assignment. The assi
 
 - [Medium.com](https://medium.com/@SriVinayA/unleashing-the-power-of-llms-for-predictive-tasks-on-tabular-data-5dbf7ebdc728)
 - [SlideShare.com](https://docs.google.com/presentation/d/1ifCdaJtqkyxvZPPuUXA89CYGsvxRPmesWyregHXNP1A/edit?usp=sharing)
-- [Demo link](https://youtube.com/)
+- [Demo link](https://drive.google.com/file/d/1B_zJNZRY3FFD6ARPawKUmYgwaoNyWMQJ/view?usp=sharing)
 - [ArXiv](https://arxiv.org/abs/2403.20208)
 
